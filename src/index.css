@@ -1,0 +1,14 @@
+body {
+  background-image: url("back.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  padding-top: 25px;
+}
+
+.add {
+  padding-right: 10px;
+}
+
+#add {
+  padding-left: 35%;
+}
